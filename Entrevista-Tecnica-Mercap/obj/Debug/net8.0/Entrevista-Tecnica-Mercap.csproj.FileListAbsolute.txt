@@ -27,3 +27,18 @@ E:\Federico\Mercap\Phone_Call_Billing_System\Entrevista-Tecnica-Mercap\obj\Debug
 E:\Federico\Mercap\Phone_Call_Billing_System\Entrevista-Tecnica-Mercap\obj\Debug\net8.0\Entrevista-Tecnica-Mercap.pdb
 E:\Federico\Mercap\Phone_Call_Billing_System\Entrevista-Tecnica-Mercap\obj\Debug\net8.0\Entrevista-Tecnica-Mercap.genruntimeconfig.cache
 E:\Federico\Mercap\Phone_Call_Billing_System\Entrevista-Tecnica-Mercap\obj\Debug\net8.0\ref\Entrevista-Tecnica-Mercap.dll
+C:\Users\fedmartin\Desktop\prueba refresh\Phone_Call_Billing_System\Entrevista-Tecnica-Mercap\obj\Debug\net8.0\Entrevista-Tecnica-Mercap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedmartin\Desktop\prueba refresh\Phone_Call_Billing_System\Entrevista-Tecnica-Mercap\obj\Debug\net8.0\Entrevista-Tecnica-Mercap.AssemblyInfoInputs.cache
+C:\Users\fedmartin\Desktop\prueba refresh\Phone_Call_Billing_System\Entrevista-Tecnica-Mercap\obj\Debug\net8.0\Entrevista-Tecnica-Mercap.AssemblyInfo.cs
+C:\Users\fedmartin\Desktop\prueba refresh\Phone_Call_Billing_System\Entrevista-Tecnica-Mercap\obj\Debug\net8.0\Entrevista-Tecnica-Mercap.csproj.CoreCompileInputs.cache
+C:\Users\fedmartin\Desktop\prueba refresh\Phone_Call_Billing_System\Entrevista-Tecnica-Mercap\obj\Debug\net8.0\Entrevista-Tecnica-Mercap.sourcelink.json
+C:\Users\fedmartin\Desktop\prueba refresh\Phone_Call_Billing_System\Entrevista-Tecnica-Mercap\obj\Debug\net8.0\Entrevista-Tecnica-Mercap.dll
+C:\Users\fedmartin\Desktop\prueba refresh\Phone_Call_Billing_System\Entrevista-Tecnica-Mercap\obj\Debug\net8.0\refint\Entrevista-Tecnica-Mercap.dll
+C:\Users\fedmartin\Desktop\prueba refresh\Phone_Call_Billing_System\Entrevista-Tecnica-Mercap\obj\Debug\net8.0\Entrevista-Tecnica-Mercap.pdb
+C:\Users\fedmartin\Desktop\prueba refresh\Phone_Call_Billing_System\Entrevista-Tecnica-Mercap\bin\Debug\net8.0\Entrevista-Tecnica-Mercap.exe
+C:\Users\fedmartin\Desktop\prueba refresh\Phone_Call_Billing_System\Entrevista-Tecnica-Mercap\bin\Debug\net8.0\Entrevista-Tecnica-Mercap.deps.json
+C:\Users\fedmartin\Desktop\prueba refresh\Phone_Call_Billing_System\Entrevista-Tecnica-Mercap\bin\Debug\net8.0\Entrevista-Tecnica-Mercap.runtimeconfig.json
+C:\Users\fedmartin\Desktop\prueba refresh\Phone_Call_Billing_System\Entrevista-Tecnica-Mercap\bin\Debug\net8.0\Entrevista-Tecnica-Mercap.dll
+C:\Users\fedmartin\Desktop\prueba refresh\Phone_Call_Billing_System\Entrevista-Tecnica-Mercap\bin\Debug\net8.0\Entrevista-Tecnica-Mercap.pdb
+C:\Users\fedmartin\Desktop\prueba refresh\Phone_Call_Billing_System\Entrevista-Tecnica-Mercap\obj\Debug\net8.0\Entrevista-Tecnica-Mercap.genruntimeconfig.cache
+C:\Users\fedmartin\Desktop\prueba refresh\Phone_Call_Billing_System\Entrevista-Tecnica-Mercap\obj\Debug\net8.0\ref\Entrevista-Tecnica-Mercap.dll

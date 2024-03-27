@@ -9,6 +9,7 @@ namespace Entrevista_Tecnica_Mercap
     public class InternationalCall : Call
     {
         public string Country { get; set; }
+        public DateTime DateTime { get; set; }
         // Diccionario para almacenar las tarifas por país
         private static Dictionary<string, double> countryRates = new Dictionary<string, double>
         {
@@ -20,9 +21,11 @@ namespace Entrevista_Tecnica_Mercap
             // Agregar más países y tarifas según sea necesario
         };
 
-        public InternationalCall(string country, double durationMinutes):base(durationMinutes)
+        public InternationalCall(string country, double durationMinutes, DateTime dateTime)
+            :base(durationMinutes)
         {
-            Country = country;            
+            Country = country;      
+            DateTime = dateTime;
         }
 
         public override double CalculateCost()
@@ -41,7 +44,7 @@ namespace Entrevista_Tecnica_Mercap
                 costPerMinute = 1.00;
             }
 
-            return DuracionMinutes * costPerMinute;
+            return DurationMinutes * costPerMinute;
         }
     }
 }

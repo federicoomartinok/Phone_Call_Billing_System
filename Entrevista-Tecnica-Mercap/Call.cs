@@ -8,11 +8,11 @@ namespace Entrevista_Tecnica_Mercap
 {
     public abstract class Call
     {
-        public double DuracionMinutes { get; set; }
+        public double DurationMinutes { get; set; }
 
-        protected Call(double duracionMinutes)
+        protected Call(double durationMinutes)
         {
-            DuracionMinutes = duracionMinutes;
+            DurationMinutes = durationMinutes;
         }
 
         public abstract double CalculateCost();

@@ -8,26 +8,27 @@ namespace Entrevista_Tecnica_Mercap
 {
     public class LocalCall:Call
     {
-        public DateTime DateTime { get; set; }       
+        public DateTime Date { get; set; }       
 
-        public LocalCall(DateTime dateTime, int durationMinutes):base(durationMinutes)
+        public LocalCall(DateTime date, int durationMinutes)
+            :base(durationMinutes)
         {
-            DateTime = dateTime;
+            Date = date;
         }
 
         public override double CalculateCost()
         {
-            if (DateTime.DayOfWeek == DayOfWeek.Saturday || DateTime.DayOfWeek == DayOfWeek.Sunday)
+            if (Date.DayOfWeek == DayOfWeek.Saturday || Date.DayOfWeek == DayOfWeek.Sunday)
             {
-                return DuracionMinutes * 0.10;
+                return DurationMinutes * 0.10;
             }
-            else if (DateTime.Hour >= 8 && DateTime.Hour < 20)
+            else if (Date.Hour >= 8 && Date.Hour < 20)
             {
-                return DuracionMinutes * 0.20;
+                return DurationMinutes * 0.20;
             }
             else
             {
-                return DuracionMinutes * 0.10;
+                return DurationMinutes * 0.10;
             }
         }
     }

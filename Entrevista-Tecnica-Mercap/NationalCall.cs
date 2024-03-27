@@ -9,11 +9,15 @@ namespace Entrevista_Tecnica_Mercap
 {
     public class NationalCall:Call
     {
-        public string Locality { get; set; }  
+        public string Locality { get; set; }
+        public DateTime DateTime { get; set; }
 
-        public NationalCall(string locality, double durationMinutes):base(durationMinutes)
+
+        public NationalCall(string locality, double durationMinutes, DateTime dateTime)
+            :base(durationMinutes)
         {
             Locality = locality;
+            DateTime = dateTime;
         }
         private static Dictionary<string, double> localtyRates = new Dictionary<string, double>
         {
@@ -34,7 +38,6 @@ namespace Entrevista_Tecnica_Mercap
             {
                 // Obtener la tarifa del país desde el diccionario
                 costPerMinute = localtyRates[Locality];
-
             }
             else
             {
@@ -42,7 +45,7 @@ namespace Entrevista_Tecnica_Mercap
                 costPerMinute = 1.00;
             }
 
-            return DuracionMinutes * costPerMinute;
+            return DurationMinutes * costPerMinute;
         }
     }
 }

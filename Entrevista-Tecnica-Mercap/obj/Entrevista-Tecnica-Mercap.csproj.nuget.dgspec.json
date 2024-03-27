@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Entrevista-Tecnica-Mercap.csproj": {}
+    "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Entrevista-Tecnica-Mercap.csproj": {}
   },
   "projects": {
-    "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Entrevista-Tecnica-Mercap.csproj": {
+    "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Entrevista-Tecnica-Mercap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Entrevista-Tecnica-Mercap.csproj",
+        "projectUniqueName": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Entrevista-Tecnica-Mercap.csproj",
         "projectName": "Entrevista-Tecnica-Mercap",
-        "projectPath": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Entrevista-Tecnica-Mercap.csproj",
-        "packagesPath": "C:\\Users\\Federico\\.nuget\\packages\\",
-        "outputPath": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\obj\\",
+        "projectPath": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Entrevista-Tecnica-Mercap.csproj",
+        "packagesPath": "C:\\Users\\fedmartin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Federico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fedmartin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

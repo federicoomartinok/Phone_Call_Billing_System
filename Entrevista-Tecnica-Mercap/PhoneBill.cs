@@ -11,8 +11,7 @@ namespace Entrevista_Tecnica_Mercap
         public List<LocalCall> LocalCalls { get; set; }
         public List <NationalCall> NationalCalls { get; set; }
         public List <InternationalCall> InternationalCalls { get; set; }
-        public MonthlySub Subscription { get; set; }
-
+        public MonthlySub Subscription { get; set; }        
 
         public PhoneBill(List<LocalCall> localCalls, List<NationalCall> nationalCalls,
             List<InternationalCall> internationalCalls, MonthlySub subscription)
@@ -25,20 +24,37 @@ namespace Entrevista_Tecnica_Mercap
 
         public void CreateBill()
         {
-            Console.WriteLine("Monthly Bill:");
-            Console.WriteLine("Monthly Subscription: $" + Subscription.Cost);
+            Console.WriteLine("Enter the month in numeric format: ");
+            var input = Console.ReadLine();
 
-            double totalLocal = LocalCalls.Sum(call => call.CalculateCost());
-            Console.WriteLine("Total Local Calls: $" + totalLocal);
+            if (int.TryParse(input, out int month) && month >= 1 && month <= 12)
+            {
+                // Crear un objeto DateTime con el mes ingresado y el año actual
+                DateTime specificMonth = new DateTime(DateTime.Now.Year, month, 1);
+                Console.WriteLine("Monthly Bill - " + specificMonth.ToString("MMMM yyyy"));
+                Console.WriteLine("Monthly Subscription: $" + Subscription.Cost);
+                Console.WriteLine("");
 
-            double totalNational = NationalCalls.Sum(call => call.CalculateCost());
-            Console.WriteLine("Total National Calls: $" + totalNational);
+                double totalLocal = LocalCalls.Where(call => call.Date.Month == month)
+                                              .Sum(call => call.CalculateCost());
+                Console.WriteLine("Total Local Calls: $" + totalLocal);
 
-            double totalInternational = InternationalCalls.Sum(call => call.CalculateCost());
-            Console.WriteLine("Total International Calls: $" + totalInternational);
+                double totalNational = NationalCalls.Where(call => call.DateTime.Month == month)
+                                                    .Sum(call => call.CalculateCost());
+                Console.WriteLine("Total National Calls: $" + totalNational);
 
-            double totalBill = Subscription.Cost + totalLocal + totalNational + totalInternational;
-            Console.WriteLine("Total Bill: $" + totalBill);
+                double totalInternational = InternationalCalls.Where(call => call.DateTime.Month == month)
+                                                              .Sum(call => call.CalculateCost());
+                Console.WriteLine("Total International Calls: $" + totalInternational);
+
+                double totalBill = Subscription.Cost + totalLocal + totalNational + totalInternational;
+                Console.WriteLine("Total Bill: $" + totalBill);
+
+            }
+            else
+            {
+                Console.WriteLine("Invalid input. Please enter a valid numeric month.");
+            }
         }
     }
 }

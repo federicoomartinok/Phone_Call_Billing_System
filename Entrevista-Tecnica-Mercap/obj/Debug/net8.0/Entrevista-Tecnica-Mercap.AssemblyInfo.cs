@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Entrevista-Tecnica-Mercap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+924e44097690bf63065f6e49be5362fa921e4d75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8d7d90d8e8d25ddbeaa6f226b9c1fbd28864e50")]
 [assembly: System.Reflection.AssemblyProductAttribute("Entrevista-Tecnica-Mercap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Entrevista-Tecnica-Mercap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

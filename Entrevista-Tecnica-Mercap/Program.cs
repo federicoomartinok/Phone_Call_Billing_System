@@ -7,6 +7,7 @@
             //Simulacion de los datos
             List<LocalCall> localCalls = new List<LocalCall>
             {
+                //       2024-03-01   a las 8am  30min de llamada
                 new LocalCall(new DateTime(2024, 3, 1, 8,0,0), 30),
                 new LocalCall(new DateTime(2024, 2, 5, 12,0,0), 1),
                 new LocalCall(new DateTime(2024, 6, 15, 5,0,0), 1)

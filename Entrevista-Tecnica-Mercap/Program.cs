@@ -7,9 +7,9 @@
             //Simulacion de los datos
             List<LocalCall> localCalls = new List<LocalCall>
             {
-                new LocalCall(new DateTime(2024, 3, 1), 30),
-                new LocalCall(new DateTime(2024, 2, 5), 20),
-                new LocalCall(new DateTime(2024, 6, 15), 15)
+                new LocalCall(new DateTime(2024, 3, 1, 8,0,0), 30),
+                new LocalCall(new DateTime(2024, 2, 5, 12,0,0), 1),
+                new LocalCall(new DateTime(2024, 6, 15, 5,0,0), 1)
             };
 
             List<NationalCall> nationalCalls = new List<NationalCall>

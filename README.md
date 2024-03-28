@@ -3,6 +3,10 @@
 
 Prueba tecnica para la empresa Mercap. 
 
+## Tecnologias usadas
+
+**Lenguajes:** C#
+
 
 ## Para correr el programa
 
@@ -35,5 +39,8 @@ Ir a la carpeta del proyecto
 - Agregar una base de datos
 - Armar una API
 - Implementar patrones de diseño
+
+
+
 
 

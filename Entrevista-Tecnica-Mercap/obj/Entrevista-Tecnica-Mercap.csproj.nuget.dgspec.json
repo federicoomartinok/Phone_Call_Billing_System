@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Entrevista-Tecnica-Mercap.csproj": {}
+    "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Entrevista-Tecnica-Mercap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Entrevista-Tecnica-Mercap.csproj": {
+    "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Entrevista-Tecnica-Mercap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Entrevista-Tecnica-Mercap.csproj",
+        "projectUniqueName": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Entrevista-Tecnica-Mercap.csproj",
         "projectName": "Entrevista-Tecnica-Mercap",
-        "projectPath": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Entrevista-Tecnica-Mercap.csproj",
-        "packagesPath": "C:\\Users\\fedmartin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\obj\\",
+        "projectPath": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Entrevista-Tecnica-Mercap.csproj",
+        "packagesPath": "C:\\Users\\Federico\\.nuget\\packages\\",
+        "outputPath": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fedmartin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Federico\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

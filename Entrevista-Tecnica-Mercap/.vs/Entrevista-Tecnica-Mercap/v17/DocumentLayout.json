@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\",
+  "WorkspaceRootPath": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|c:\\users\\fedmartin\\desktop\\prueba refresh\\phone_call_billing_system\\entrevista-tecnica-mercap\\phonebill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|solutionrelative:phonebill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|c:\\users\\fedmartin\\desktop\\prueba refresh\\phone_call_billing_system\\entrevista-tecnica-mercap\\localcall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|solutionrelative:localcall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|c:\\users\\fedmartin\\desktop\\prueba refresh\\phone_call_billing_system\\entrevista-tecnica-mercap\\internationalcall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|solutionrelative:internationalcall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|c:\\users\\fedmartin\\desktop\\prueba refresh\\phone_call_billing_system\\entrevista-tecnica-mercap\\monthlysub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|solutionrelative:monthlysub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|c:\\users\\fedmartin\\desktop\\prueba refresh\\phone_call_billing_system\\entrevista-tecnica-mercap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|e:\\federico\\mercap\\phone_call_billing_system\\entrevista-tecnica-mercap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|c:\\users\\fedmartin\\desktop\\prueba refresh\\phone_call_billing_system\\entrevista-tecnica-mercap\\nationalcall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|e:\\federico\\mercap\\phone_call_billing_system\\entrevista-tecnica-mercap\\nationalcall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|solutionrelative:nationalcall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|c:\\users\\fedmartin\\desktop\\prueba refresh\\phone_call_billing_system\\entrevista-tecnica-mercap\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|e:\\federico\\mercap\\phone_call_billing_system\\entrevista-tecnica-mercap\\phonebill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|solutionrelative:phonebill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|e:\\federico\\mercap\\phone_call_billing_system\\entrevista-tecnica-mercap\\internationalcall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|solutionrelative:internationalcall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|e:\\federico\\mercap\\phone_call_billing_system\\entrevista-tecnica-mercap\\localcall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|solutionrelative:localcall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|e:\\federico\\mercap\\phone_call_billing_system\\entrevista-tecnica-mercap\\monthlysub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|solutionrelative:monthlysub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|e:\\federico\\mercap\\phone_call_billing_system\\entrevista-tecnica-mercap\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D6DE90A-E7D5-4897-8A84-1710F489470D}|Entrevista-Tecnica-Mercap.csproj|solutionrelative:call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,95 +38,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 13,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f37f5141-198e-4181-9582-7b026ee8f915}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:833303092:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:471218599:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:419691361:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Call.cs",
-              "DocumentMoniker": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Call.cs",
+              "DocumentMoniker": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Call.cs",
               "RelativeDocumentMoniker": "Call.cs",
-              "ToolTip": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Call.cs",
+              "ToolTip": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Call.cs",
               "RelativeToolTip": "Call.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T15:28:53.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T15:28:53.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "NationalCall.cs",
-              "DocumentMoniker": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\NationalCall.cs",
+              "DocumentMoniker": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\NationalCall.cs",
               "RelativeDocumentMoniker": "NationalCall.cs",
-              "ToolTip": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\NationalCall.cs",
+              "ToolTip": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\NationalCall.cs",
               "RelativeToolTip": "NationalCall.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAgAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCQAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T14:49:27.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "InternationalCall.cs",
-              "DocumentMoniker": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\InternationalCall.cs",
+              "DocumentMoniker": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\InternationalCall.cs",
               "RelativeDocumentMoniker": "InternationalCall.cs",
-              "ToolTip": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\InternationalCall.cs",
+              "ToolTip": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\InternationalCall.cs",
               "RelativeToolTip": "InternationalCall.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T14:49:35.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T14:49:35.803Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PhoneBill.cs",
-              "DocumentMoniker": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\PhoneBill.cs",
+              "DocumentMoniker": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\PhoneBill.cs",
               "RelativeDocumentMoniker": "PhoneBill.cs",
-              "ToolTip": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\PhoneBill.cs",
+              "ToolTip": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\PhoneBill.cs",
               "RelativeToolTip": "PhoneBill.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAACQAAAAAAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwCMAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T14:49:49.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "LocalCall.cs",
-              "DocumentMoniker": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\LocalCall.cs",
+              "DocumentMoniker": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\LocalCall.cs",
               "RelativeDocumentMoniker": "LocalCall.cs",
-              "ToolTip": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\LocalCall.cs",
+              "ToolTip": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\LocalCall.cs",
               "RelativeToolTip": "LocalCall.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T14:49:02.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T14:49:02.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MonthlySub.cs",
-              "DocumentMoniker": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\MonthlySub.cs",
+              "DocumentMoniker": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\MonthlySub.cs",
               "RelativeDocumentMoniker": "MonthlySub.cs",
-              "ToolTip": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\MonthlySub.cs",
+              "ToolTip": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\MonthlySub.cs",
               "RelativeToolTip": "MonthlySub.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T14:48:49.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T14:48:49.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Program.cs",
+              "DocumentMoniker": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\fedmartin\\Desktop\\prueba refresh\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Program.cs",
+              "ToolTip": "E:\\Federico\\Mercap\\Phone_Call_Billing_System\\Entrevista-Tecnica-Mercap\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T13:52:40.713Z",
               "EditorCaption": ""

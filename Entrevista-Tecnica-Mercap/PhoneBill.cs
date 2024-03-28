@@ -32,8 +32,8 @@ namespace Entrevista_Tecnica_Mercap
                 // Crear un objeto DateTime con el mes ingresado y el año actual
                 DateTime specificMonth = new DateTime(DateTime.Now.Year, month, 1);
                 Console.WriteLine("Monthly Bill - " + specificMonth.ToString("MMMM yyyy"));
+                Console.WriteLine("---------------------------------");
                 Console.WriteLine("Monthly Subscription: $" + Subscription.Cost);
-                Console.WriteLine("");
 
                 double totalLocal = LocalCalls.Where(call => call.Date.Month == month)
                                               .Sum(call => call.CalculateCost());
